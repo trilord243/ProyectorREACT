@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Robot";
+  src: url("/fonts/RobotoMono-Bold.ttf");
+}
+
+body {
+  background-color: #63b1bf;
+  font-family: "Robot", sans-serif;
+}
