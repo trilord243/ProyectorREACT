@@ -1,5 +1,6 @@
 import React from "react";
-import "./Todolist.css";
+import "./TodoList.css";
+
 function TodoList(props) {
   return (
     <section>
